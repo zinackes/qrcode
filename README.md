@@ -41,6 +41,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [zinacke](https://www.your-site.com)
-- Frontend Mentor - [@zinacke](https://www.frontendmentor.io/profile/zinacke)
+- Frontend Mentor - [@zinacke](https://www.frontendmentor.io/profile/zinackes)
 - Twitter - [@zinacke_](https://www.twitter.com/zinacke_)
 
