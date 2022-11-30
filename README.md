@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Qrcode](https://zinackes.github.io/qrcode/)
 
 ## My process
 
@@ -40,7 +40,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [zinacke](https://www.your-site.com)
+- Website - [zinacke](https://zinackes.github.io/qrcode/)
 - Frontend Mentor - [@zinacke](https://www.frontendmentor.io/profile/zinackes)
 - Twitter - [@zinacke_](https://www.twitter.com/zinacke_)
 
