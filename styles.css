@@ -1,0 +1,14 @@
+body{
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.page{
+    background-color: gray;
+}
+
+@media screen and (min-width: 1440px){
+    .page{
+        margin: 50%;
+    }
+}
