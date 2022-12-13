@@ -5,17 +5,10 @@ body{
     margin: 0;
 }
 
-.padding{
-    margin-top: 200px;
-    max-width: 300px;
-}
-
 .contour{
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
-}
-
-.contour-padding{
+    width: 300px;
     padding: 15px;
 }
 
@@ -43,14 +36,14 @@ body{
 }
 
 @media screen and (min-width: 1440px){
-    .padding{
+    .contour{
         margin-left: auto !important;
         margin-right: auto !important;
     }
 }
 
 @media screen and (min-width: 375px){
-    .padding{
+    .contour{
         margin-left: auto;
         margin-right: auto;
     }
