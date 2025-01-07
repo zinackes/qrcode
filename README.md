@@ -1,46 +1,25 @@
-# Frontend Mentor - QR code component solution
+# 🔳 QR Code avec Description 📜  
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Un **mini-projet web** qui affiche un QR Code accompagné d'une description en dessous. Développé avec **HTML**, **CSS**, et **JavaScript**, ce composant met en avant un design minimaliste et une clarté d'utilisation.  
 
-## Table of contents
+---
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+## ✨ Fonctionnalités  
+- 🔗 **QR Code statique** : Un QR Code généré pour une URL ou un texte défini.  
+- 📝 **Description claire** : Texte explicatif affiché sous le QR Code pour indiquer son contenu ou son utilisation.  
+- 🎨 **Design minimaliste** : Une mise en page épurée et facile à personnaliser.  
 
+---
 
-## Overview
+## 📂 Technologies utilisées  
+- **HTML** : Structure du composant.  
+- **CSS** : Pour le style et la mise en page.  
+- **JavaScript** : (optionnel si QR Code statique) pour générer dynamiquement le QR Code.  
 
-### Screenshot
+---
 
-![](./screenshot.jpg)
-![image](https://user-images.githubusercontent.com/111656470/204814126-ee380f0b-681e-49e2-8186-64420109e80a.png)
-
-
-### Links
-
-- Live Site URL: [Qrcode](https://zinackes.github.io/qrcode/)
-
-## My process
-
-### Built with
-
-- HTML5
-- CSS
-
-
-### Useful resources
-
-- [W3schools](https://www.w3schools.com/html/html_filepaths.asp) - This helped me to put the image on the screen, because i didn't knew how before, but know i've understood it better.
-
-
-## Author
-
-- Website - [zinacke](https://zinackes.github.io/qrcode/)
-- Frontend Mentor - [@zinacke](https://www.frontendmentor.io/profile/zinackes)
-- Twitter - [@zinacke_](https://www.twitter.com/zinacke_)
-
+## 🚀 Comment l'utiliser  
+1. Clone ce dépôt :  
+   ```bash
+   git clone https://github.com/ton-utilisateur/qrcode.git
+   cd qrcode
