@@ -21,5 +21,5 @@ Un **mini-projet web** qui affiche un QR Code accompagné d'une description en d
 ## 🚀 Comment l'utiliser  
 1. Clone ce dépôt :  
    ```bash
-   git clone https://github.com/ton-utilisateur/qrcode.git
+   git clone https://github.com/zinackes/qrcode.git
    cd qrcode
